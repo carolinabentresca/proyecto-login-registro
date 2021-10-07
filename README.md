@@ -6,5 +6,5 @@
 
 ![Login - Internet Explorer 24_9_2021 15_57_10](https://user-images.githubusercontent.com/88462536/134743801-f3faf8a8-a5e5-4365-b811-01f642e3d394.png)
 
-![Login - Internet Explorer 24_9_2021 15_57_25](https://user-images.githubusercontent.com/88462536/134743828-713bc2b4-6112-4df3-8582-30ad9b654686.png)
+
 
